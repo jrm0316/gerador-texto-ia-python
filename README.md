@@ -37,7 +37,7 @@ assistente-educacional-langchain/
 
 Como executar o projeto
   1.) Clonar o repositório
-      git clone https://github.com/seu-usuario/assistente-educacional-langchain.git
+      git clone https://github.com/seu-usuario/Explica-tema-depois-grava-em-arquivo-LangChain-e-Groq.git
       cd assistente-educacional-langchain
 
   2.) Instalar as dependências
