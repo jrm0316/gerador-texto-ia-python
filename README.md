@@ -28,14 +28,20 @@ Tecnologias e conceitos utilizados
 
 Estrutura do projeto
 assistente-educacional-langchain/
+
 │
+
 ├── main.py
+
 ├── resposta_python.txt
+
 ├── .env
+
 └── README.md
 
 
 Como executar o projeto
+
   1.) Clonar o repositório
       git clone https://github.com/seu-usuario/Explica-tema-depois-grava-em-arquivo-LangChain-e-Groq.git
       cd assistente-educacional-langchain
